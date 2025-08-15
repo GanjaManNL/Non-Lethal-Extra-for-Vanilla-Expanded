@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>Non-Lethal Extra for Vanilla Expanded (Continued)</name>
+    <name>Non-Lethal Extra for Vanilla Expanded</name>
 
     <description>New weapons and turrets for 'Vanilla Weapon Expanded - Non-Lethal' mod.</description>
 
@@ -12,7 +12,7 @@
         <li>1.6</li>
     </supportedVersions>
 
-    <packageId>loregret.veextra.nonlethal</packageId>
+    <packageId>ganja.veextra.nonlethal</packageId>
 
     <modDependencies>
         <li>
